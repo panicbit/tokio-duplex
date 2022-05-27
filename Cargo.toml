@@ -1,0 +1,12 @@
+[package]
+name = "tokio-duplex"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Combine seperate AsyncRead and AsyncWrite values into a single AsyncRead + AsyncWrite"
+repository = "https://github.com/panicbit/tokio-duplex"
+documentation = "https://docs.rs/tokio-duplex"
+
+[dependencies]
+pin-project-lite = "0.2.9"
+tokio = "1.18.2"
