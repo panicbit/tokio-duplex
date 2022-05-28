@@ -3,7 +3,7 @@ name = "tokio-duplex"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
-description = "Combine seperate AsyncRead and AsyncWrite values into a single AsyncRead + AsyncWrite"
+description = "Combine seperate `AsyncRead` and `AsyncWrite` types into a single `AsyncRead + AsyncWrite` type"
 repository = "https://github.com/panicbit/tokio-duplex"
 documentation = "https://docs.rs/tokio-duplex"
 
