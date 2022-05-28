@@ -1,1 +1,1 @@
-This crate provides only a single type ([Duplex](https://docs.rs/tokio-duplex/latest/tokio-duplex/struct.Duplex.html)), which allows combining a `AsyncRead` type and an `AsyncWrite` type into a single `AsyncRead + AsyncWrite` type.
+This crate provides only a single type ([Duplex](https://docs.rs/tokio-duplex/latest/tokio-duplex/struct.Duplex.html)), which allows combining an `AsyncRead` type and an `AsyncWrite` type into a single `AsyncRead + AsyncWrite` type.
